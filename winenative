@@ -1,0 +1,2 @@
+#!/bin/sh
+$1 "`wine winepath -u "$2"`"
